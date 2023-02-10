@@ -9,24 +9,24 @@ const Services = () => {
       <div className="container services_container">
         <article className='service'>
           <div className="service_head">
-            <h3>UI/UX Design </h3>
+            <h3>Laravel</h3>
           </div>
           <ul className='service_list'>
             <li> 
               <ImCheckmark2 className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Live App.</p>
             </li>
             <li> 
               <ImCheckmark2 className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Designers.</p>
             </li>
             <li> 
               <ImCheckmark2 className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>School App.</p>
             </li>
             <li> 
               <ImCheckmark2 className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Blog.</p>
             </li>
           </ul>
         </article>
@@ -38,19 +38,19 @@ const Services = () => {
           <ul className='service_list'>
             <li> 
               <ImCheckmark2 className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>School Portal.</p>
             </li>
             <li> 
               <ImCheckmark2 className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Ecommerce.</p>
             </li>
             <li> 
               <ImCheckmark2 className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Music App.</p>
             </li>
             <li> 
               <ImCheckmark2 className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <pChat App.</p>
             </li>
           </ul>
         </article>
@@ -62,19 +62,19 @@ const Services = () => {
           <ul className='service_list'>
             <li> 
               <ImCheckmark2 className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Motivation.</p>
             </li>
             <li> 
               <ImCheckmark2 className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Comedy.</p>
             </li>
             <li> 
               <ImCheckmark2 className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Songs.</p>
             </li>
             <li> 
               <ImCheckmark2 className='service_list-icon' />
-              <p>Lorem ipsum dolor sit amet.</p>
+              <p>Articles.</p>
             </li>
           </ul>
         </article>
