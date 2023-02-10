@@ -50,7 +50,7 @@ const Services = () => {
             </li>
             <li> 
               <ImCheckmark2 className='service_list-icon' />
-              <pChat App.</p>
+              <p>Chat App.</p>
             </li>
           </ul>
         </article>
