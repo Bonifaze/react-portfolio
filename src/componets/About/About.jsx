@@ -37,11 +37,9 @@ const About = () => {
       </article>
     </div>
     <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. 
-      Officiis assumenda delectus exercitationem accusantium? 
-      Eveniet beatae laboriosam provident quia, dignissimos
-       molestias, quidem magni maxime et facilis amet, ipsum optio 
-       officiis tempora!
+      I'm a Full_stack Developer for Abuja Nigeria.
+I have serious passion for Web Development and UI effects, animations and creating intuitive, dynamic user experiences.
+Let's make something special.
     </p>
     <a href="#contact" className='btn btn-primary'>Let's Talk</a>
     </div>
